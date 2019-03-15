@@ -1,0 +1,1 @@
+Manipular arquivos no Python é fácil Segunda Linha!  Mais uma linha!
